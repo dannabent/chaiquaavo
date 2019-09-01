@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chiengaed.codingbobby.xyz/sitemap.xml
